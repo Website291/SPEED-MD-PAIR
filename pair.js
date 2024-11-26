@@ -82,9 +82,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ANJU MD",
-thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+title: "HASHAN MD",
+thumbnailUrl: "https://telegra.ph/file/4b8107be4fdeaf42f3022.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VasbntoGpLHW0RSldP18",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -98,9 +98,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ANJU MD",
-thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+title: "HASHAN MD",
+thumbnailUrl: "https://telegra.ph/file/4b8107be4fdeaf42f3022.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VasbntoGpLHW0RSldP18",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
